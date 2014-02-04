@@ -1,0 +1,39 @@
+Source: kguiaddons
+Priority: optional
+Maintainer: Kubuntu Developers <kubuntu-devel@lists.ubuntu.com>
+XSBC-Original-Maintainer: Rohan Garg <rohangarg@kubuntu.org>
+Build-Depends: debhelper (>= 8.0.0), cmake,
+ extra-cmake-modules,
+ pkg-kde-tools,
+ qtbase5-dev (>= 5.2.0),
+ qtbase5-private-dev,
+ xvfb,
+ pkg-config
+Standards-Version: 3.9.5
+Section: libs
+Homepage: http://projects.kde.org/kguiaddons
+
+Package: libkf5guiaddons-dev
+Section: libdevel
+Architecture: any
+Depends: libkf5guiaddons5 (= ${binary:Version})
+Description: development headers for the kguiaddons framework
+ This package contains development files for building software that uses
+ libraries from the kguiaddon framework
+
+Package: libkf5guiaddons5
+Section: libs
+Architecture: any
+Multi-Arch: same
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: additional addons for QtGui
+ Qt widgets for colours, fonts and text
+
+Package: libkf5guiaddons5-dbg
+Section: debug
+Priority: extra
+Architecture: any
+Depends: libkf5guiaddons5 (= ${binary:Version}), ${shlibs:Depends}, ${misc:Depends}
+Description: debugging symbols for the kguiaddons framework
+ This package contains debugging files used to investigate problems with
+ binaries included in the kguiaddon framework
