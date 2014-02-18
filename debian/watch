@@ -1,2 +1,2 @@
 version=3
-ftp://ftp.kde.org/pub/kde/unstable/frameworks/([\d\.]*)/kguiaddons-([\d\.]*).tar.xz
+http://download.kde.org/unstable/frameworks/([\d\.]*)/kguiaddons-(.*)\.tar\.xz
