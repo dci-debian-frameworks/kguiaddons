@@ -8,7 +8,8 @@ Build-Depends: debhelper (>= 8.0.0), cmake,
  qtbase5-dev (>= 5.2.0),
  qtbase5-private-dev,
  xvfb,
- pkg-config
+ pkg-config,
+ libqt5x11extras5-dev
 Standards-Version: 3.9.5
 Section: libs
 Homepage: http://projects.kde.org/kguiaddons
