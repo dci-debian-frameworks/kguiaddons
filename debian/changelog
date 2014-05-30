@@ -1,3 +1,9 @@
+kguiaddons (4.99.0-0ubuntu2) UNRELEASED; urgency=medium
+
+  * Install *.pri files in arch dependent path.
+
+ -- José Manuel Santamaría Lema <panfaust@gmail.com>  Fri, 30 May 2014 22:07:20 +0200
+
 kguiaddons (4.99.0-0ubuntu1) trusty; urgency=medium
 
   * New upstream beta release
