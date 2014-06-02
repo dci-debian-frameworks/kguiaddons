@@ -4,7 +4,7 @@ Maintainer: Kubuntu Developers <kubuntu-devel@lists.ubuntu.com>
 XSBC-Original-Maintainer: Rohan Garg <rohangarg@kubuntu.org>
 Build-Depends: cmake,
                debhelper (>= 8.0.0),
-               extra-cmake-modules (>= 0.0.13),
+               extra-cmake-modules (>= 0.0.14),
                libqt5x11extras5-dev,
                pkg-config,
                pkg-kde-tools,
@@ -18,8 +18,7 @@ Homepage: http://projects.kde.org/kguiaddons
 Package: libkf5guiaddons-dev
 Section: libdevel
 Architecture: any
-Depends: libkf5guiaddons5 (= ${binary:Version}),
- qtbase5-dev
+Depends: libkf5guiaddons5 (= ${binary:Version}), qtbase5-dev
 Description: development headers for the kguiaddons framework
  This package contains development files for building software that uses
  libraries from the kguiaddon framework
