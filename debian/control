@@ -18,7 +18,8 @@ Homepage: http://projects.kde.org/kguiaddons
 Package: libkf5guiaddons-dev
 Section: libdevel
 Architecture: any
-Depends: libkf5guiaddons5 (= ${binary:Version})
+Depends: libkf5guiaddons5 (= ${binary:Version}),
+ qtbase5-dev
 Description: development headers for the kguiaddons framework
  This package contains development files for building software that uses
  libraries from the kguiaddon framework
