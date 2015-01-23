@@ -6,6 +6,7 @@ kguiaddons (5.6.0-1~) UNRELEASED; urgency=medium
   * Update install files.
   * Update copyright information.
   * Update build dependencies to follow cmake.
+  * Add basic autopkgtests support.
 
  -- Maximiliano Curia <maxy@debian.org>  Fri, 23 Jan 2015 10:43:31 +0100
 
