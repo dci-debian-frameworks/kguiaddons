@@ -4,6 +4,12 @@ kguiaddons (5.7.0-1~) UNRELEASED; urgency=medium
 
  -- Maximiliano Curia <maxy@debian.org>  Tue, 24 Feb 2015 17:38:00 +0100
 
+kguiaddons (5.7.0-0ubuntu1) vivid; urgency=medium
+
+  * New upstream release
+
+ -- Harald Sitter <sitter@kde.org>  Tue, 10 Feb 2015 16:28:50 +0100
+
 kguiaddons (5.6.0-1) experimental; urgency=medium
 
   * New upstream release (5.6.0).
@@ -16,6 +22,30 @@ kguiaddons (5.6.0-1) experimental; urgency=medium
   * Add libkf5coreaddons-dev -dev dependency, needed by kimagecache.h.
 
  -- Maximiliano Curia <maxy@debian.org>  Fri, 23 Jan 2015 12:20:19 +0100
+
+kguiaddons (5.6.0-0ubuntu1) vivid; urgency=medium
+
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 06 Jan 2015 19:52:25 +0100
+
+kguiaddons (5.5.0-0ubuntu1) vivid; urgency=medium
+
+  * New upstream release
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 15 Dec 2014 11:20:00 +0100
+
+kguiaddons (5.4.0-0ubuntu1) vivid; urgency=medium
+
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 07 Nov 2014 15:15:32 +0100
+
+kguiaddons (5.3.0-0ubuntu1) utopic; urgency=medium
+
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 07 Oct 2014 11:28:07 +0100
 
 kguiaddons (5.2.0-0ubuntu1) utopic; urgency=medium
 
