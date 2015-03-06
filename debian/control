@@ -26,7 +26,7 @@ Section: libdevel
 Architecture: any
 Depends: libkf5coreaddons-dev,
          libkf5guiaddons5 (= ${binary:Version}),
-         qtbase5-dev,
+         qtbase5-dev (>= 5.2.0),
          ${misc:Depends}
 Description: development headers for the kguiaddons framework
  This package contains development files for building software that uses
