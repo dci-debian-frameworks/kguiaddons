@@ -12,7 +12,7 @@ Build-Depends: cmake,
                qtbase5-private-dev,
                xauth,
                xvfb
-Standards-Version: 3.9.5
+Standards-Version: 3.9.6
 Section: libs
 Homepage: http://projects.kde.org/kguiaddons
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/frameworks/kguiaddons.git
