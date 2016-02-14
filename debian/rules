@@ -6,4 +6,5 @@ override_dh_strip:
 	$(overridden_command) --ddeb-migration='libkf5guiaddons5-dbg (<= 5.19.0-1~~)'
 
 override_dh_auto_test:
-	xvfb-run $(overridden_command)
+	# Disable auto tests at build time
+	:
