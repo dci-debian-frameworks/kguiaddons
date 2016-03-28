@@ -1,13 +1,14 @@
-kguiaddons (5.20.0-1~1.gbp923ec3) UNRELEASED; urgency=medium
+kguiaddons (5.20.0-1~2.gbp0b5ace) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @923ec3177741454afadd61798baef77e22387eb7 **
+  ** SNAPSHOT build @0b5ace20af73a28a9bce0e0acc8b2b92ed7df835 **
 
   * Replace the "Historical name" ddeb-migration by its "Modern, clearer" replacement dbgsym-migration.
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
   * debian/control: Update Vcs-Browser and Vcs-Git fields
+  * UNRELEASED
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Wed, 23 Mar 2016 22:38:32 +0100
+ -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Mon, 28 Mar 2016 20:23:08 +0200
 
 kguiaddons (5.19.0-1) experimental; urgency=medium
 
