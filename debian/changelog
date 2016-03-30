@@ -1,6 +1,6 @@
-kguiaddons (5.20.0-1~4.gbpef6c30) UNRELEASED; urgency=medium
+kguiaddons (5.20.0-1~5.gbp40bb15) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @ef6c300c85ad6f5e16b3f2bfc3025dc3bf6080bf **
+  ** SNAPSHOT build @40bb150f18f570aeaa742ffae990f94ced215c62 **
 
   * Replace the "Historical name" ddeb-migration by its "Modern, clearer" replacement dbgsym-migration.
   * Add upstream metadata (DEP-12)
@@ -9,8 +9,9 @@ kguiaddons (5.20.0-1~4.gbpef6c30) UNRELEASED; urgency=medium
   * UNRELEASED
   * UNRELEASED
   * UNRELEASED
+  * UNRELEASED
 
- -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Tue, 29 Mar 2016 08:23:09 +0200
+ -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Wed, 30 Mar 2016 10:23:24 +0200
 
 kguiaddons (5.19.0-1) experimental; urgency=medium
 
