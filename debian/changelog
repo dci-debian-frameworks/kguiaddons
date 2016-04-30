@@ -1,6 +1,6 @@
-kguiaddons (5.21.0-1~1.gbpf13d4e) UNRELEASED; urgency=medium
+kguiaddons (5.21.0-1~2.gbpa00a13) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @f13d4e03601a3ed26f194fdd78327d96dd94dca4 **
+  ** SNAPSHOT build @a00a1369f4e8deff9dba1f993f72065172a6f9ad **
 
   [ Maximiliano Curia ]
   ** SNAPSHOT build @61a3c1f7ed483d79f265bacf18601bcf46797f90 **
@@ -20,10 +20,11 @@ kguiaddons (5.21.0-1~1.gbpf13d4e) UNRELEASED; urgency=medium
 
   [ Automatic packaging ]
   * Update build-deps and deps with the info from cmake
+  * Bump Standards-Version to 3.9.8
 
   [ Maximiliano Curia ]
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Sun, 10 Apr 2016 09:23:20 +0200
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Sat, 30 Apr 2016 20:03:50 +0200
 
 kguiaddons (5.19.0-1) experimental; urgency=medium
 
