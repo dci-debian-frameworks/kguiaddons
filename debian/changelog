@@ -1,6 +1,4 @@
-kguiaddons (5.21.0-1~3.gbpfd4ca3) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @fd4ca3c8d52f3c3f986cdbeb2a5e6674515490fb **
+kguiaddons (5.21.0-1) experimental; urgency=medium
 
   [ Maximiliano Curia ]
   * Replace the "Historical name" ddeb-migration by its "Modern, clearer" replacement dbgsym-migration.
@@ -14,7 +12,7 @@ kguiaddons (5.21.0-1~3.gbpfd4ca3) UNRELEASED; urgency=medium
   * Update build-deps and deps with the info from cmake
   * Bump Standards-Version to 3.9.8
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Wed, 04 May 2016 21:23:13 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 05 May 2016 14:52:03 +0200
 
 kguiaddons (5.19.0-1) experimental; urgency=medium
 
