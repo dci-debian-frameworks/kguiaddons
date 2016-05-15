@@ -1,3 +1,11 @@
+kguiaddons (5.22.0-1~1.gbpfb2968) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @fb2968607f9804abed6aa65c03da1a21e57e73c0 **
+
+  * Update build-deps and deps with the info from cmake
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Sun, 15 May 2016 13:32:43 +0200
+
 kguiaddons (5.21.0-1) experimental; urgency=medium
 
   [ Maximiliano Curia ]
