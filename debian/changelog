@@ -1,10 +1,11 @@
-kguiaddons (5.24.0-1~1.gbp5acc52) UNRELEASED; urgency=medium
+kguiaddons (5.25.0-1~1.gbpde003f) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @5acc525ac6e92520607f29d7e9ad02aabc2f1ef3 **
+  ** SNAPSHOT build @de003f8111a8ad940c9f5e8322ff64970d646e17 **
 
   * Update build-deps and deps with the info from cmake
+  * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Sat, 09 Jul 2016 14:23:20 +0200
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Sat, 13 Aug 2016 20:23:10 +0200
 
 kguiaddons (5.23.0-1) unstable; urgency=medium
 
