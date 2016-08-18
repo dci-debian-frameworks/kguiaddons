@@ -1,17 +1,12 @@
-kguiaddons (5.25.0-1~2.gbp155b03) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @155b034e23f2d635f16915d3990aa28963ea7a48 **
+kguiaddons (5.25.0-1) unstable; urgency=medium
 
   [ Automatic packaging ]
-  ** SNAPSHOT build @de003f8111a8ad940c9f5e8322ff64970d646e17 **
-
-  * Update build-deps and deps with the info from cmake
   * Update build-deps and deps with the info from cmake
 
   [ Maximiliano Curia ]
   * Bump group breaks (5.25)
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Wed, 17 Aug 2016 22:23:21 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 18 Aug 2016 17:19:06 +0200
 
 kguiaddons (5.23.0-1) unstable; urgency=medium
 
