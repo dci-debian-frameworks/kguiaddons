@@ -1,10 +1,12 @@
-kguiaddons (5.26.0-1~1.gbp7c1f5d) UNRELEASED; urgency=medium
+kguiaddons (5.26.0-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @7c1f5d97faf534ab8380b00589f0294816f3dda5 **
-
+  [ Automatic packaging ]
   * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Sat, 10 Sep 2016 14:23:45 +0200
+  [ Maximiliano Curia ]
+  * Bump group breaks (5.26)
+
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 29 Sep 2016 11:56:08 +0200
 
 kguiaddons (5.25.0-1) unstable; urgency=medium
 
