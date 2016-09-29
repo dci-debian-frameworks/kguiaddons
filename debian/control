@@ -28,7 +28,7 @@ Depends: libkf5coreaddons-dev,
 Description: development headers for the kguiaddons framework
  This package contains development files for building software that uses
  libraries from the kguiaddon framework
-Breaks: libkf5configwidgets-dev (<< 5.25), libkf5kdelibs4support-dev (<< 5.25)
+Breaks: libkf5configwidgets-dev (<< 5.26), libkf5kdelibs4support-dev (<< 5.26)
 
 Package: libkf5guiaddons5
 Architecture: any
@@ -36,7 +36,7 @@ Multi-Arch: same
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Description: additional addons for QtGui
  Qt widgets for colours, fonts and text
-Breaks: libkf5configwidgets5 (<< 5.25),
-        libkf5kdelibs4support5 (<< 5.25),
-        libkf5plasma5 (<< 5.25),
-        libkf5texteditor5 (<< 5.25)
+Breaks: libkf5configwidgets5 (<< 5.26),
+        libkf5kdelibs4support5 (<< 5.26),
+        libkf5plasma5 (<< 5.26),
+        libkf5texteditor5 (<< 5.26)
