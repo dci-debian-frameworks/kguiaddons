@@ -1,14 +1,16 @@
-kguiaddons (5.41.0-1~1) UNRELEASED; urgency=medium
+kguiaddons (5.41.0-1) experimental; urgency=medium
 
   [ Maximiliano Curia ]
   * New upstream release (5.41.0).
   * Bump Standards-Version to 4.1.2.
   * Update build-deps and deps with the info from cmake
+  * Bump group breaks (5.41)
+  * Release to experimental
 
   [ Helmut Grohne ]
   * Fix FTCBFS: Annotate libqt5sql5-sqlite with :native. (Closes: 882884)
 
- -- Maximiliano Curia <maxy@debian.org>  Tue, 12 Dec 2017 12:32:29 -0300
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 15 Dec 2017 10:42:37 -0300
 
 kguiaddons (5.41.0-0neon) xenial; urgency=medium
 
